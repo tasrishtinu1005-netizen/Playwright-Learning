@@ -13,9 +13,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@azure/identity": "^4.13.1",
     "@azure/microsoft-playwright-testing": "^1.0.0-beta.6",
+    "@azure/playwright": "^1.1.6",
     "@cucumber/cucumber": "*",
-    "@playwright/test": "^1.54.2",
+    "@playwright/test": "^1.57.0",
     "@zerostep/playwright": "^0.1.5",
     "allure-playwright": "^2.0.0-beta.15",
     "typescript": "^5.4.5"
